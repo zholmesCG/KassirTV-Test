@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+    <alertTemplate>
+      <background>
+        <img src="http://i.imgur.com/OZZlkBX.jpg" />
+        // http://i.imgur.com/OZZlkBX.jpg
+        // ${this.baseURL}images/shutterstock_383455315.jpg
+      </background>
+        <title>Welcome to Page Navigation</title>
+        <description>New Message...</description>
+        <button onselect="getDocument('templates/NextPage.xml')">
+            <text>Next page</text>
+        </button>
+    </alertTemplate>
+</document>

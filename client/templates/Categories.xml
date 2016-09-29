@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+  <catalogTemplate>
+    <banner>
+      <title>Categories</title>
+    </banner>
+    <list>
+      <section>
+        <listItemLockup>
+          <title>Beauty</title>
+          <relatedContent>
+            <grid>
+              <section>
+                //2
+                <lockup videoURL="https://wolverine.raywenderlich.com/rwdevcon.com/2015/videos/Ray-Wenderlich-Teamwork.mp4">
+                  <img src="${this.BASEURL}images/ray.png" width="500" height="308" />
+                </lockup>
+              </section>
+            </grid>
+          </relatedContent>
+        </listItemLockup>
+      </section>
+      <section>
+        <listItemLockup>
+          <title>Health</title>
+          <relatedContent>
+            <grid>
+              <section>
+                //2
+                <lockup videoURL="https://wolverine.raywenderlich.com/rwdevcon.com/2015/videos/Ray-Wenderlich-Teamwork.mp4">
+                  <img src="${this.BASEURL}images/ray.png" width="500" height="308" />
+                </lockup>
+              </section>
+            </grid>
+          </relatedContent>
+        </listItemLockup>
+      </section>
+      <section>
+        <listItemLockup>
+          <title>Celebrities</title>
+          <relatedContent>
+            <grid>
+              <section>
+                //2
+                <lockup videoURL="https://wolverine.raywenderlich.com/rwdevcon.com/2015/videos/Ray-Wenderlich-Teamwork.mp4">
+                  <img src="${this.BASEURL}images/ray.png" width="500" height="308" />
+                </lockup>
+              </section>
+            </grid>
+          </relatedContent>
+        </listItemLockup>
+      </section>
+      <section>
+        <listItemLockup>
+          <title>Hair</title>
+          <relatedContent>
+            <grid>
+              <section>
+                //2
+                <lockup videoURL="https://wolverine.raywenderlich.com/rwdevcon.com/2015/videos/Ray-Wenderlich-Teamwork.mp4">
+                  <img src="${this.BASEURL}images/ray.png" width="500" height="308" />
+                </lockup>
+              </section>
+            </grid>
+          </relatedContent>
+        </listItemLockup>
+      </section>
+      <section>
+        <listItemLockup>
+          <title>Skin</title>
+          <relatedContent>
+            <grid>
+              <section>
+                //2
+                <lockup videoURL="https://wolverine.raywenderlich.com/rwdevcon.com/2015/videos/Ray-Wenderlich-Teamwork.mp4">
+                  <img src="${this.BASEURL}images/ray.png" width="500" height="308" />
+                </lockup>
+              </section>
+            </grid>
+          </relatedContent>
+        </listItemLockup>
+      </section>
+      <section>
+        <listItemLockup>
+          <title>Make-Up</title>
+          <relatedContent>
+            <grid>
+              <section>
+                //2
+                <lockup videoURL="https://wolverine.raywenderlich.com/rwdevcon.com/2015/videos/Ray-Wenderlich-Teamwork.mp4">
+                  <img src="${this.BASEURL}images/ray.png" width="500" height="308" />
+                </lockup>
+              </section>
+            </grid>
+          </relatedContent>
+        </listItemLockup>
+      </section>
+      <section>
+        <listItemLockup>
+          <title>Lifestyle</title>
+          <relatedContent>
+            <grid>
+              <section>
+                //2
+                <lockup videoURL="https://wolverine.raywenderlich.com/rwdevcon.com/2015/videos/Ray-Wenderlich-Teamwork.mp4">
+                  <img src="${this.BASEURL}images/ray.png" width="500" height="308" />
+                </lockup>
+              </section>
+            </grid>
+          </relatedContent>
+        </listItemLockup>
+      </section>
+    </list>
+  </catalogTemplate>
+</document>

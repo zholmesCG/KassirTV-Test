@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+    <menuBarTemplate>
+        <menuBar>
+            <menuItem selectTargetURL="templates/Home.xml">
+                <title>Home</title>
+            </menuItem>
+            <menuItem selectTargetURL="templates/Categories.xml">
+                <title>Categories</title>
+            </menuItem>
+            <menuItem selectTargetURL="templates/Search.xml">
+                <title>Search</title>
+            </menuItem>
+        </menuBar>
+    </menuBarTemplate>
+</document>

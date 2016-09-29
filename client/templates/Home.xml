@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+   <productBundleTemplate>
+     <background>
+       <img src="http://imgur.com/4p1zY13.png"/>
+     </background>
+      <banner>
+         <stack>
+            <title>KassirTV</title>
+            <text>Welcome to KassirTV</text>
+            <description allowsZooming="true" moreLabel="more">This is life. This is KassirTV. The best app. The greatest app. You will love this app so much, you will never love another app again. Thanks for reading.</description>
+            <row>
+               <buttonLockup>
+                  <badge src="resource://button-preview" />
+                  <title>Watch Videos</title>
+               </buttonLockup>
+            </row>
+         </stack>
+      </banner>
+      <shelf>
+         <header>
+            <title>Popular Videos</title>
+         </header>
+         <section>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_A.png" width="400" height="226" />
+               <title>Video 1</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_B.png" width="400" height="226" />
+               <title>Video 2</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 3</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 4</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 5</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 6</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 7</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 8</title>
+            </lockup>
+         </section>
+      </shelf>
+      <shelf>
+         <header>
+            <title>Beauty</title>
+         </header>
+         <section>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_A.png" width="400" height="226" />
+               <title>Video 1</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_B.png" width="400" height="226" />
+               <title>Video 2</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 3</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 4</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 5</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 6</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 7</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 8</title>
+            </lockup>
+         </section>
+      </shelf>
+      <shelf>
+         <header>
+            <title>Health</title>
+         </header>
+         <section>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_A.png" width="400" height="226" />
+               <title>Video 1</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_B.png" width="400" height="226" />
+               <title>Video 2</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 3</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 4</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 5</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 6</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 7</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 8</title>
+            </lockup>
+         </section>
+      </shelf>
+      <shelf>
+         <header>
+            <title>Celebrities</title>
+         </header>
+         <section>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_A.png" width="400" height="226" />
+               <title>Video 1</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_B.png" width="400" height="226" />
+               <title>Video 2</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 3</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 4</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 5</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 6</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 7</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 8</title>
+            </lockup>
+         </section>
+      </shelf>
+      <shelf>
+         <header>
+            <title>Hair</title>
+         </header>
+         <section>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_A.png" width="400" height="226" />
+               <title>Video 1</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_B.png" width="400" height="226" />
+               <title>Video 2</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 3</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 4</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 5</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 6</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 7</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 8</title>
+            </lockup>
+         </section>
+      </shelf>
+      <shelf>
+         <header>
+            <title>Skin</title>
+         </header>
+         <section>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_A.png" width="400" height="226" />
+               <title>Video 1</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_B.png" width="400" height="226" />
+               <title>Video 2</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 3</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 4</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 5</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 6</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 7</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 8</title>
+            </lockup>
+         </section>
+      </shelf>
+      <shelf>
+         <header>
+            <title>Make-Up</title>
+         </header>
+         <section>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_A.png" width="400" height="226" />
+               <title>Video 1</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_B.png" width="400" height="226" />
+               <title>Video 2</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 3</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 4</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 5</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 6</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 7</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 8</title>
+            </lockup>
+         </section>
+      </shelf>
+      <shelf>
+         <header>
+            <title>Lifestyle</title>
+         </header>
+         <section>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_A.png" width="400" height="226" />
+               <title>Video 1</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_B.png" width="400" height="226" />
+               <title>Video 2</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 3</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 4</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 5</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 6</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 7</title>
+            </lockup>
+            <lockup>
+               <img src="path to images on your server/Cooking_Show_250x375_C.png" width="400" height="226" />
+               <title>Video 8</title>
+            </lockup>
+         </section>
+      </shelf>
+   </productBundleTemplate>
+</document>
